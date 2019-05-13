@@ -2,11 +2,13 @@
 # Comandos de GIT
 ################
 # git add .
-# git commit -m "el mensaje"
+# git commit -m "el mensaje"        (El "-m" es de "mensaje" precisamente)
 # git push       (Para empujar el código del repo Local al repo Remoto)
 # git pull        (Para estirar los cambios del repo Remoto al repo Local)
 ################
 #Comandos para navegar en la Terminal
 ################
 
-#dir ()
+#dir             (Para ver las carpetas/ archivos existentes)
+#cd nombre de archivo (Para entrar en la carpeta/ archivo... es como hacer un click)
+# cd ..           (Para retroceder de la carpeta/ archivo, es como deshacer)
